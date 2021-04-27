@@ -11,7 +11,7 @@ Mr. Thomas owns a small supermarket in town. For several years he has been the o
   - Channels used for Network Effect.
  
  <p align="center">
-<img src="https://github.com/yarahisham/Supermarket_CaseStudy-Network_Effect/blob/main/Images/Screen%20Shot%202021-04-27%20at%203.47.56%20AM.jpg" alt="alt text" width="700" height="300" >
+<img src="https://github.com/yarahisham/Supermarket_CaseStudy-Network_Effect/blob/main/Images/Screen%20Shot%202021-04-27%20at%203.47.56%20AM.jpg" alt="alt text" width="700" height="200" >
 </p>
  
 ## Knowledge Officer Robric
